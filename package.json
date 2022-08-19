@@ -1,14 +1,14 @@
 {
-  "name": "ng-inline-svg-2",
+  "name": "@norskrikstoto/ng-inline-svg-2",
   "version": "15.0.0",
   "description": "Angular directive for inserting an SVG inline within an element.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/siandreev/ng-inline-svg.git"
+    "url": "https://github.com/NorskRikstoto/ng-inline-svg-3.git"
   },
-  "homepage": "https://github.com/siandreev/ng-inline-svg",
+  "homepage": "https://github.com/NorskRikstoto/ng-inline-svg-3",
   "bugs": {
-    "url": "https://github.com/siandreev/ng-inline-svg/issues"
+    "url": "https://github.com/NorskRikstoto/ng-inline-svg-3/issues"
   },
   "files": [
     "lib_commonjs/*",
@@ -16,6 +16,9 @@
     "README.md",
     "LICENSE"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "Eugene Cheung",
   "license": "MIT",
   "keywords": [
